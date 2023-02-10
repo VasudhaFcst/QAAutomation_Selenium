@@ -1,0 +1,38 @@
+1382  111
+1382  
+geckodriver.exe
+D:\\office\\WebDrivers\\geckodriver.exe
+Shopping.xlsx
+C:/testing/Shopping.xlsx
+Cart.properties
+C:/testing/Cart.properties
+Success...
+Windows
+Firefox
+C:/testing/Shopping.xlsx
+C:/testing/Cart.properties
+C:/testing/report
+C:/testing/screen
+D:\\office\\WebDrivers\\geckodriver.exe
+SCENARIOS
+File already exists.
+firefox
+XP
+58.0.2
+SCENARIOS
+count: 8
+Success...
+Windows
+Firefox
+C:/testing/Shopping.xlsx
+C:/testing/Cart.properties
+C:/testing/report
+C:/testing/screen
+D:\\office\\WebDrivers\\geckodriver.exe
+SCENARIOS
+File already exists.
+firefox
+XP
+58.0.2
+SCENARIOS
+count: 8

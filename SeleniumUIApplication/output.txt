@@ -1,0 +1,162 @@
+1382  111
+1382  
+chromedriver.exe
+D:\\office\\WebDrivers\\chromedriver.exe
+Shopping.xlsx
+C:/testing/Shopping.xlsx
+Cart.properties
+C:/testing/Cart.properties
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.poi.openxml4j.util.ZipSecureFile$1 (file:/D:/office/poi-3.14/poi-ooxml-3.14-20160307.jar) to field java.io.FilterInputStream.in
+WARNING: Please consider reporting this to the maintainers of org.apache.poi.openxml4j.util.ZipSecureFile$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Success...
+Windows
+Chrome
+C:/testing/Shopping.xlsx
+C:/testing/Cart.properties
+C:/testing/report/HTML_reports/19-02-2020_14-01-41.html
+C:/testing/screen/Screenshots_19-02-2020_14-01-41
+D:\\office\\WebDrivers\\chromedriver.exe
+SCENARIOS
+C:/testing/report/XML_reports/19-02-2020_14-01-41.xml
+SCENARIOS
+count: 7
+LOGIN
+Pause
+Browser is not existed
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 38325
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1582101131.551][WARNING]: This version of ChromeDriver has not been tested with Chrome version 80.
+[1582101135.004][WARNING]: Timed out connecting to Chrome, retrying...
+Feb 19, 2020 2:02:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+chrome
+WINDOWS
+80.0.3987.87
+Result is 0
+Pause
+Row:  3
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  4
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  5
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  6
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  7
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  8
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Started number true
+This is pass
+Result is Pass
+log4j:WARN No appenders could be found for logger (freemarker.cache).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+SHOPPING
+Pause
+Row:  2
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  3
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  4
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Result is 0
+Pause
+Row:  6
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+M
+Row:  7
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+"Size is " 
+ Size-value
+Result is 0
+Pause
+Row:  9
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Result is 0
+Pause
+Row:  11
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Row:  12
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Result is Skip
+Result is Invalid Keywords or NULLs are mentioned
+Result is Skip
+Result is 0
+Started number true
+This is pass
+Result is Pass
+LOGOUT
+Pause
+Row:  2
+This is pass
+Result is Pass
+Result is Output as expected
+Result is 0
+Pause
+Result is 0
+Started number true
+This is pass
+Result is Pass
+Test execution is completed
+C:/testing/screen/Screenshots_19-02-2020_14-01-41
+C:\testing\screen\Screenshots_19-02-2020_14-01-41

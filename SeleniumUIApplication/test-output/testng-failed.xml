@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="2" name="ChromeTest(failed)" parallel="tests">
+    <parameter name="excel" value="D:\Fcst OneDrive\ForecastEra Inc\FCST Onedrive Files - ForecastEra\Archive UserData\Vasudha Katragunta\EclipseData\SeleniumUIApplication//excel//AN_Lighting.xlsx"/>
+    <parameter name="reportName" value="${report}"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="driverPath" value="D://chromedriver.exe"/>
+    <classes>
+      <class name="Running.ExecutionTest">
+        <methods>
+          <include name="testcases"/>
+          <include name="setup"/>
+          <include name="initial"/>
+        </methods>
+      </class> <!-- Running.ExecutionTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

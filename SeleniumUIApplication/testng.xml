@@ -1,0 +1,33 @@
+<!--  <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Suite" parallel="tests">
+  <test name="ChromeTest">
+      <parameter name="browser" value="chrome"/>
+      <parameter name="excel" value="${user.dir}//excel//AN_Lighting.xlsx"/>
+      <parameter name="driverPath" value="D://chromedriver.exe"/>
+       <parameter name="reportName" value="${report}"/>
+    <classes>
+      <class name="Running.ExecutionTest">
+      </class>
+    </classes>
+  </test> 
+    <test name="FirefoxTest">
+      <parameter name="browser" value="${browserName}"/>
+      <parameter name="browser" value="firefox"/>
+      <parameter name="excel" value="D://DemandNavigator2.0_SA.xlsx"/>
+      <parameter name="driverPath" value="D://geckodriver.exe"/>
+       <parameter name="reportName" value="${report}"/>
+      
+    <classes>
+      <class name="Running.ExecutionTest"/>
+    </classes>
+  </test>
+  <test name="IETest">
+      <parameter name="browser" value="IE"/>
+      <parameter name="excel" value="D://DemandNavigator2.0_SA.xlsx"/>
+      <parameter name="driverPath" value="D://IEDriverServer.exe"/>
+    <classes>
+      <class name="Running.ExecutionTest"/>
+    </classes> 
+ </test> 
+</suite> -->
