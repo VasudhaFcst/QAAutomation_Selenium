@@ -553,7 +553,7 @@ public class TitlePage implements Information{
 	public String directoryCreated(String path,String newFolder) {
 		path=path+"/"+newFolder;
 		File f=new File(path);
-		f.mkdir();
+		f.mkdirs();
 		return path;
 	}
 	
